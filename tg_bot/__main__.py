@@ -18,11 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഹായ് {}, എന്റെ പേര് {}! 
-എന്നെ നോക്കി നടത്തുന്നത്  [ഇദ്ദേഹം](tg://user?id={}) ആണ്.
-
-
-
+no one gonna help you 🤣🤣🤣🤣
 """
 
 HELP_STRINGS = """
