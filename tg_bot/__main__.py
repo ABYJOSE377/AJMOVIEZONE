@@ -18,9 +18,7 @@ from tg_bot.modules.helper_funcs.chat_status import is_user_admin
 from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
-ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ AJ MOVIE ZONE ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
-[Group](buttonurl:https://t.me/joinchat/NFOrmRv4Lh7RkJ40phJkkw)
-[Channel](buttonurl:https://t.me/aj_full_movies)
+ഞാൻ ഒരു ഗ്രൂപ്പ് മാനേജർ ബോട്ട് ആണ് പക്ഷെ വെറുതെ സമയം കളയണ്ട എന്നെ @ajmoviezone_chats ഗ്രൂപ്പിൽ മാത്രമേ ഉപയോഗിക്കാൻ കഴിയൂ
 """
 
 _STRINGS = """
