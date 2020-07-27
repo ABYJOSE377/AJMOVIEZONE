@@ -23,7 +23,7 @@ PM_START_TEXT = """
 [Channel](buttonurl:https://t.me/aj_full_movies)
 """
 
-HELP_STRINGS = """
+_STRINGS = """
 നമസ്കാരം ! എന്റെ പേര് *{}*.
 
 ഞാൻ ടെലെഗ്രാമിലെ Group Management Bot ആണ്... എന്നെ പ്രവർത്തിപ്പിക്കേണ്ട വിധം ആണ് താഴെ കൊടുത്തിട്ടുള്ളത്....
